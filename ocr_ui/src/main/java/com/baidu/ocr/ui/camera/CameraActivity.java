@@ -85,6 +85,7 @@ public class CameraActivity extends Activity {
         }
     };
     private FrameHintView frameHintView;
+    private TextView tvHint;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -135,15 +136,15 @@ public class CameraActivity extends Activity {
         lp.bottomMargin = 499;
         relativeLayout.addView(frameHintView, lp);
 
-        TextView tv = new TextView(this);
-        tv.setTextColor(Color.WHITE);
-        tv.setTextSize(TypedValue.COMPLEX_UNIT_SP, 14);
-        tv.setGravity(Gravity.BOTTOM|Gravity.CENTER);
-        tv.setText("请将扫描件置于扫描框中间");
+        tvHint = new TextView(this);
+        tvHint.setTextColor(Color.WHITE);
+        tvHint.setTextSize(TypedValue.COMPLEX_UNIT_SP, 14);
+        tvHint.setGravity(Gravity.BOTTOM|Gravity.CENTER);
+        tvHint.setText("请将扫描件置于扫描框中间");
         RelativeLayout.LayoutParams lp2 = new RelativeLayout.LayoutParams(getResources().getDisplayMetrics().widthPixels,
                 RelativeLayout.LayoutParams.MATCH_PARENT);
         lp2.bottomMargin = 550;
-        relativeLayout.addView(tv, lp2);
+        relativeLayout.addView(tvHint, lp2);
     }
 
     @Override
@@ -290,6 +291,7 @@ public class CameraActivity extends Activity {
             Intent intent = new Intent(Intent.ACTION_PICK);
             intent.setType("image/*");
             startActivityForResult(intent, REQUEST_CODE_PICK_IMAGE);
+            hideHintView(false);
         }
     };
 
@@ -345,15 +347,18 @@ public class CameraActivity extends Activity {
                     if (cropMaskView.getMaskType() == MaskView.MASK_TYPE_NONE) {
                         cropView.setFilePath(outputFile.getAbsolutePath());
                         showCrop();
+                        hideHintView(false);
                     } else if (cropMaskView.getMaskType() == MaskView.MASK_TYPE_BANK_CARD) {
                         cropView.setFilePath(outputFile.getAbsolutePath());
                         cropMaskView.setVisibility(View.INVISIBLE);
                         overlayView.setVisibility(View.VISIBLE);
                         overlayView.setTypeWide();
                         showCrop();
+                        hideHintView(false);
                     } else {
                         displayImageView.setImageBitmap(bitmap);
                         showResultConfirm();
+                        hideHintView(true);
                     }
                 }
             });
@@ -366,6 +371,7 @@ public class CameraActivity extends Activity {
             // 释放 cropView中的bitmap;
             cropView.setFilePath(null);
             showTakePicture();
+            hideHintView(true);
         }
     };
 
@@ -429,6 +435,7 @@ public class CameraActivity extends Activity {
         public void onClick(View v) {
             displayImageView.setImageBitmap(null);
             showTakePicture();
+            hideHintView(true);
         }
     };
 
@@ -504,6 +511,11 @@ public class CameraActivity extends Activity {
                 cameraView.getCameraControl().resume();
             }
         }
+    }
+
+    private void hideHintView(boolean isShow) {
+        frameHintView.setVisibility(isShow ? View.VISIBLE : View.GONE);
+        tvHint.setVisibility(isShow ? View.VISIBLE : View.GONE);
     }
 
     @Override

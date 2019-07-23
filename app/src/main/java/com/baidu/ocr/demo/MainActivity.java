@@ -155,12 +155,6 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-
-    @Override
-    protected void onStart() {
-        super.onStart();
-    }
-
     //展示内容UI
     private void displayUI(String result) {
         try {
