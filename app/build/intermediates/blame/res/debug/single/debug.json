@@ -40,12 +40,12 @@
         "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
-        "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\layout\\abc_alert_dialog_title_material.xml"
-    },
-    {
         "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
         "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
         "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
@@ -96,12 +96,12 @@
         "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\color-v21\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
         "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -300,20 +300,20 @@
         "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
         "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
         "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\8e2e483e4a95c66390c651d9e6c712b1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
@@ -332,12 +332,12 @@
         "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\8e2e483e4a95c66390c651d9e6c712b1\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
-    },
-    {
         "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\8e2e483e4a95c66390c651d9e6c712b1\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_bd_ocr_confirm.png.flat",
@@ -428,12 +428,12 @@
         "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
-        "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
         "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
         "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
         "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
@@ -528,12 +528,12 @@
         "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_voice_search_api_material.xml.flat",
-        "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
         "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_bd_ocr_rotate.png.flat",
         "source": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\ocr_ui\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\bd_ocr_rotate.png"
+    },
+    {
+        "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -660,12 +660,12 @@
         "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
-    },
-    {
         "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_bd_ocr_id_card_locator_front.png.flat",
         "source": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\ocr_ui\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\bd_ocr_id_card_locator_front.png"
+    },
+    {
+        "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
         "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -696,12 +696,12 @@
         "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
-        "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\layout-v26\\abc_screen_toolbar.xml"
-    },
-    {
         "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\8e2e483e4a95c66390c651d9e6c712b1\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\layout-v26\\abc_screen_toolbar.xml"
     },
     {
         "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -728,12 +728,12 @@
         "source": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
-        "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
         "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\hutao.LAPTOP-MEMHSPD2\\.gradle\\caches\\transforms-2\\files-2.1\\d52186cf6271f831e88784ea029dea62\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
         "merged": "E:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",

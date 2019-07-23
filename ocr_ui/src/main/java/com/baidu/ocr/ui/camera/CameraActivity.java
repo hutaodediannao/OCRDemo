@@ -12,6 +12,7 @@ import com.baidu.ocr.ui.R;
 import com.baidu.ocr.ui.crop.CropView;
 import com.baidu.ocr.ui.crop.FrameHintView;
 import com.baidu.ocr.ui.crop.FrameOverlayView;
+import com.baidu.ocr.ui.util.DimensionUtil;
 
 import android.Manifest;
 import android.app.Activity;
@@ -133,7 +134,7 @@ public class CameraActivity extends Activity {
         lp.leftMargin = 35;
         lp.rightMargin = 35;
         lp.topMargin = 48;
-        lp.bottomMargin = 499;
+        lp.bottomMargin = 499- DimensionUtil.dpToPx(50);
         relativeLayout.addView(frameHintView, lp);
 
         tvHint = new TextView(this);
