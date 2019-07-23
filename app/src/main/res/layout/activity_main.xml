@@ -7,6 +7,16 @@
     android:layout_height="fill_parent"
     android:orientation="vertical">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@android:color/holo_red_light"
+        android:textColor="@color/colorWhite"
+        android:gravity="center"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        android:text="文字识别系统"/>
+
     <Button
         android:id="@+id/custom_button"
         android:layout_width="match_parent"

@@ -1,4 +1,4 @@
-#Wed Jul 24 00:05:59 CST 2019
+#Wed Jul 24 00:12:51 CST 2019
 base.0=E\:\\workSpace2\\baiDuOCRDemo\\aip-ocr-android-sdk-1.4.4\\OCRDemo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex
